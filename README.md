@@ -1,10 +1,11 @@
 # Asset Management
-status: in-progress; confidence: likely; importance: 8
  
 SSRN Paper:
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952
 
 This paper investigates various machine learning trading and portfolio optimisation models and techniques. The notebooks to this paper are Python based. By last count there are about 15 distinct trading varieties and around 100 trading strategies. Code and data are made available where appropriate. The hope is that this paper will organically grow with future developments in machine learning and data processing techniques. All feedback, contributions and criticisms are highly encouraged. 
+
+status: in-progress; confidence: likely; importance: 8
 
 ## Trading Strategies
 
