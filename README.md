@@ -1,5 +1,6 @@
 # Asset Management
-
+status: in-progress; confidence: likely; importance: 8
+ 
 SSRN Paper:
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952
 
