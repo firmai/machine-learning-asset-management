@@ -10,7 +10,9 @@
 
 ## Other
 
-<br>**1. GANVaR**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1C0QLVV2iC8QVvCG7F4bhP8dP3wuGkJ8E)<br> <br><br><br>[*All Data and Code*](https://drive.google.com/open?id=1utWE_xx1N93BTDkofiWPbhjcfh_W8_aK) 
-
+<br>**1. GANVaR**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1C0QLVV2iC8QVvCG7F4bhP8dP3wuGkJ8E)<br> <br><br>
  ****
+[*All Data and Code*](https://drive.google.com/open?id=1utWE_xx1N93BTDkofiWPbhjcfh_W8_aK) 
+
+
 
