@@ -10,10 +10,11 @@ This paper investigates various machine learning trading and portfolio optimisat
 
 status: in-progress; confidence: likely; importance: 8
 
-_All Time Top 10_
+**All Time Top 10 Paper:**
+
 [Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl)
 
-https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178543&netorjrnl=jrnl
+
 
 
 ## Trading Strategies
