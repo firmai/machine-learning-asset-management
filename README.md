@@ -10,12 +10,6 @@ This paper investigates various machine learning trading and portfolio optimisat
 
 status: in-progress; confidence: likely; importance: 8
 
-**All Time Top 10 Paper:**
-
-[Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl)
-
-
-
 
 ## Trading Strategies
 
@@ -29,6 +23,12 @@ status: in-progress; confidence: likely; importance: 8
 <br>**1. GANVaR**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1C0QLVV2iC8QVvCG7F4bhP8dP3wuGkJ8E)<br> <br><br>
  ****
 [*All Data and Code*](https://drive.google.com/open?id=1utWE_xx1N93BTDkofiWPbhjcfh_W8_aK) 
+
+
+**All Time Top 10 Paper:**
+
+[Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl)
+
 
 
 
