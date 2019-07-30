@@ -25,9 +25,9 @@ status: in-progress; confidence: likely; importance: 8
 [*All Data and Code*](https://drive.google.com/open?id=1utWE_xx1N93BTDkofiWPbhjcfh_W8_aK) 
 
 ****
-**All Time Top 10 Paper:**
+Top 5% SSRN paper downloads
 
-1. Top 5% SSRN paper downloads
+**All Time Top 10 Paper:**
 
 [Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl)
 
