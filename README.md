@@ -29,7 +29,14 @@ Top 5% SSRN paper downloads
 
 **All Time Top 10 Paper:**
 
-[Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl)
+[Applied Computing eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3191581&netorjrnl=jrnl), [CompSciRN: Algorithms](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl), [CompSciRN: Clustering](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3176752&netorjrnl=jrnl),
+[Banking & Financial Institutions eJournals](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=320840&netorjrnl=ntwk),
+[CompSciRN: Artificial Intelligence](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178496&netorjrnl=jrnl),
+[Econometric Modeling: Capital Markets - Portfolio Theory eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=2167133&netorjrnl=jrnl),
+[Machine Learning eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178495&netorjrnl=jrnl),
+
+
+
 
 
 
