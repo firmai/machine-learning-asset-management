@@ -25,7 +25,7 @@ status: in-progress; confidence: likely; importance: 8
 [*All Data and Code*](https://drive.google.com/open?id=1utWE_xx1N93BTDkofiWPbhjcfh_W8_aK) 
 
 ****
-Top 5% SSRN paper downloads
+Top 1% SSRN paper downloads
 
 **All Time Top 10 Paper:**
 
@@ -33,7 +33,7 @@ Top 5% SSRN paper downloads
 [Banking & Financial Institutions eJournals](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=320840&netorjrnl=ntwk),
 [CompSciRN: Artificial Intelligence](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178496&netorjrnl=jrnl),
 [Econometric Modeling: Capital Markets - Portfolio Theory eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=2167133&netorjrnl=jrnl),
-[Machine Learning eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178495&netorjrnl=jrnl),
+[Machine Learning eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178495&netorjrnl=jrnl)
 
 
 
