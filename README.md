@@ -35,13 +35,13 @@ status: in-progress; confidence: likely; importance: 8
 
 <br>**11. Mixture Models**<br>*Resources*:<br>[Data](https://drive.google.com/open?id=1jmR2Jlk6Hy7J7c2jZFEK1oXptOHbDYLK), [Code](https://drive.google.com/open?id=1tRIt7lIJErWKwoHIuBS6rZbZo2EYBNTN)<br>
 
-<br>**12. Evolutionary**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=116Aj9kbZcrCyR5MDu58HkWE53lacAE52), [huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/free-agent) <br>
+<br>**12. Evolutionary**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=116Aj9kbZcrCyR5MDu58HkWE53lacAE52), [Repo](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/free-agent) <br>
 
-<br> **13. Agent Strategy**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1qCvIeui5dJKMXnjUm9_wiPf65VVHdWwz), [huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/agent)<br> 
+<br> **13. Agent Strategy**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1qCvIeui5dJKMXnjUm9_wiPf65VVHdWwz), [Repo](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/agent)<br> 
 
 <br>**14. Stacked Trading**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=11SG9KIWUxV9fgrrpAs0QifgGrcdzk2dh), [Blog](https://www.kdnuggets.com/2017/02/stacking-models-imropved-predictions.html)<br>
 
-<br>**15. Deep Trading**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1NoSOI29giC3zOeWNMGQCUUQCRXemD9Ix), [huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/deep-learning)<br>
+<br>**15. Deep Trading**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1NoSOI29giC3zOeWNMGQCUUQCRXemD9Ix), [Repo](https://github.com/huseinzol05/Stock-Prediction-Models/tree/master/deep-learning)<br>
 
 <br>
 
