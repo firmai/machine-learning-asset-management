@@ -10,7 +10,6 @@ Snow, D (2019). Machine Learning in Asset Management—Part 1: Portfolio Constru
 
 This paper investigates various machine learning trading and portfolio optimisation models and techniques. The notebooks to this paper are Python based. By last count there are about 15 distinct trading varieties and around 100 trading strategies. Code and data are made available where appropriate. The hope is that this paper will organically grow with future developments in machine learning and data processing techniques. All feedback, contributions and criticisms are highly encouraged. You can find my contact details on the website, [FirmAI](https://www.firmai.org).
 
-status: in-progress; confidence: likely; importance: 8
 
 ## Trading Strategies
 
