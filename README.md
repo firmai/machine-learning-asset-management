@@ -3,7 +3,7 @@
 ## Part One
 If you feel like citing something you can use:
 
-[Snow, D (2020)](https://jfds.pm-research.com/content/2/1/10). Machine Learning in Asset Management—Part 1: Portfolio Construction—Trading Strategies. The Journal of Financial Data Science, Winter 2020, 2 (1) 10-23.
+[Snow, D (2020)](https://jfds.pm-research.com/content/2/1/10). Machine Learning in Asset Management—Part 1: Portfolio Construction—***Trading Strategies***. The Journal of Financial Data Science, Winter 2020, 2 (1) 10-23.
 
 > This is the first in a series of articles dealing with machine learning in asset management. Asset management can be broken into the following tasks: (1) portfolio construction, (2) risk management, (3) capital management, (4) infrastructure and deployment, and (5) sales and marketing. This article focuses on portfolio construction using machine learning. Historically, algorithmic trading could be more narrowly defined as the automation of sell-side trade execution, but since the introduction of more advanced algorithms, the definition has grown to include idea generation, alpha factor design, asset allocation, position sizing, and the testing of strategies. Machine learning, from the vantage of a decision-making tool, can help in all these areas.
 
@@ -52,7 +52,28 @@ This paper investigates various machine learning trading and portfolio optimisat
 
 [Snow, D (2020)](https://jfds.pm-research.com/content/early/2020/03/12/jfds.2020.1.029). Machine Learning in Asset Management—Part 2: Portfolio Construction—***Weight Optimization***. The Journal of Financial Data Science, Spring 2020, 2 (1) 10-23.
 
-### Weight Optimisation
+### Weight Optimisation (JFDS)
+
+#### Supervised
+<br>**3. Deep Portfolio**<br>*Resources:*<br>[Data](https://drive.google.com/open?id=1bJcUZbrZ8HFXs-cd0vGHeMop16Vf3n23), [Code](https://drive.google.com/open?id=1-hOEAiJqaNTUYIyamj26ZvHJNZq9XV09), [Paper](https://arxiv.org/abs/1605.07230)<br>
+
+<br>**4. Linear Regression**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1YDZQvz6Pn2AFDX2Uprfaq9JoGvk7RpJy), [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00120)<br>
+
+<br>**5. Bayesian Sentiment**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/1sMAoJZuuNIRnrivAzxHV5fulMOWO17mb)<br>
+
+#### Unsupervised
+<br>**5. PCA and Hierarchical**<br>*Resource*:<br>[Code](https://colab.research.google.com/drive/1mm9r6EZOERHYkycDbc74GY7S2U6h1oTc)<br> 
+
+<br>**2. HRP**<br>*Resources*:<br>[Data](https://drive.google.com/open?id=198fpHhD973i3rKa9D7oz-SrmBwPykQEc), [Code](https://drive.google.com/open?id=1z3Fe7QXZ6c566KOG3HtQEfCc84UAGwFf)<br>
+
+<br>**2. Network Graph**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/10WNiVuICvFajW2uTDrwI6w7aSUkjINPl)<br>
+
+#### Reinforcement Learning
+
+<br>**2. Deep Deterministic**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/1L3-D2ZmGZkPRsB9gb5BviGkSkMTLti7_)<br>
+
+
+### Weight Optimisation (SSRN)
 <br>**1. Online Portfolio Selection (OLPS)**<br>*Resources*:<br>[Code](https://drive.google.com/open?id=1TPiJE6klq7D1ZzwoKhZtPA6WzwD1txHD)<br>
 
 <br>**2. HRP**<br>*Resources*:<br>[Data](https://drive.google.com/open?id=198fpHhD973i3rKa9D7oz-SrmBwPykQEc), [Code](https://drive.google.com/open?id=1z3Fe7QXZ6c566KOG3HtQEfCc84UAGwFf)<br>
