@@ -2,7 +2,9 @@
  
 If you feel like citing something you can use:
 
-Snow, D (2020). Machine Learning in Asset Management—Part 1: Portfolio Construction—Trading Strategies. The Journal of Financial Data Science, Winter 2020, 2 (1) 10-23.
+[Snow, D (2020)](https://jfds.pm-research.com/content/2/1/10). Machine Learning in Asset Management—Part 1: Portfolio Construction—Trading Strategies. The Journal of Financial Data Science, Winter 2020, 2 (1) 10-23.
+
+[Snow, D (2020)](https://jfds.pm-research.com/content/early/2020/03/12/jfds.2020.1.029). Machine Learning in Asset Management—Part 2: Portfolio Construction—Weight Optimization. The Journal of Financial Data Science, Spring 2020, 2 (1) 10-23.
 
 > This is the first in a series of articles dealing with machine learning in asset management. Asset management can be broken into the following tasks: (1) portfolio construction, (2) risk management, (3) capital management, (4) infrastructure and deployment, and (5) sales and marketing. This article focuses on portfolio construction using machine learning. Historically, algorithmic trading could be more narrowly defined as the automation of sell-side trade execution, but since the introduction of more advanced algorithms, the definition has grown to include idea generation, alpha factor design, asset allocation, position sizing, and the testing of strategies. Machine learning, from the vantage of a decision-making tool, can help in all these areas.
 
