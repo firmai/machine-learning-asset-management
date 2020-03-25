@@ -68,7 +68,7 @@ This paper investigates various machine learning trading and portfolio optimisat
 
 <br>**6. Network Graph**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/10WNiVuICvFajW2uTDrwI6w7aSUkjINPl)<br>
 
-<br>**7. Deep Deterministic**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/1L3-D2ZmGZkPRsB9gb5BviGkSkMTLti7_)<br>
+<br>**7. RL Deep Deterministic**<br>*Resources*:<br>[Code](https://colab.research.google.com/drive/1L3-D2ZmGZkPRsB9gb5BviGkSkMTLti7_)<br>
 
 
 ### Weight Optimisation (SSRN)
