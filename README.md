@@ -1,5 +1,8 @@
 # Machine Learning in Asset Management
 
+Other FirmAI projects include **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models and
+**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster), **[FairPut](https://github.com/firmai/fairput)** a holistic approach to implement fair machine learning outputs at the individual and group level, **[PandasVault](https://github.com/firmai/pandasvault)** a package for advanced pandas functions and code snippets. **[ICR](https://github.com/firmai/interactive-corporate-report)** an interactive and fully automated corporate report built with Python. 
+
 ## Part One
 If you feel like citing something you can use:
 
