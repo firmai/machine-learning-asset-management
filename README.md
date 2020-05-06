@@ -1,7 +1,6 @@
 # Machine Learning in Asset Management
 
-Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper. Other FirmAI projects include **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models,
-**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster), **[FairPut](https://github.com/firmai/fairput)** a holistic approach to implement fair machine learning outputs at the individual and group level, **[PandasVault](https://github.com/firmai/pandasvault)** a package for advanced pandas functions and code snippets, and **[ICR](https://github.com/firmai/interactive-corporate-report)** an interactive and fully automated corporate report built with Python. 
+Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
 
 ## Part One
 If you feel like citing something you can use:
@@ -97,8 +96,9 @@ Top 1% SSRN paper downloads
 [Machine Learning eJournal](https://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=3178495&netorjrnl=jrnl)
 
 
+#### Other Projects
 
-
-
+Other FirmAI projects include **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models,
+**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster), **[FairPut](https://github.com/firmai/fairput)** a holistic approach to implement fair machine learning outputs at the individual and group level, **[PandasVault](https://github.com/firmai/pandasvault)** a package for advanced pandas functions and code snippets, and **[ICR](https://github.com/firmai/interactive-corporate-report)** an interactive and fully automated corporate report built with Python. 
 
 
