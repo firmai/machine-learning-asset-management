@@ -2,6 +2,14 @@
 
 Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
 
+---------
+
+## Sov.ai Research Lab (Sponsorship)
+
+Animated Investment Management Research at [Sov.ai](https://sov.ai), sponsoring open source AI, Machine learning, and Data Science initiatives.
+
+---------
+
 ## Part One
 If you feel like citing something you can use:
 
