@@ -6,7 +6,7 @@ Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) 
 
 ## Sov.ai Research Lab (Sponsorship)
 
-Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives (get in touch).
+Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
 
 ---------
 
