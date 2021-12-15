@@ -3,9 +3,10 @@
 If you like this type of content see the [ML Quant](https://www.ml-quant.com/) website below for extended details. 
 ----------
 
+Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
+
 ![](https://user-images.githubusercontent.com/26666267/145840123-bc077dd0-0980-439a-824b-9c09a5f779de.png)
 
-Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
 ---------
 
 ## Part One
