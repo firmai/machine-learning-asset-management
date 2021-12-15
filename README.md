@@ -4,7 +4,7 @@ Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) 
 
 If you like this type of content see [ML Quant](https://www.ml-quant.com/)
 
-[!](https://user-images.githubusercontent.com/26666267/145840123-bc077dd0-0980-439a-824b-9c09a5f779de.png)
+![](https://user-images.githubusercontent.com/26666267/145840123-bc077dd0-0980-439a-824b-9c09a5f779de.png)
 
 ---------
 
