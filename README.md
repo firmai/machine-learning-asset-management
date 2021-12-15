@@ -1,6 +1,6 @@
 # Machine Learning in Asset Management
 
-If you like this type of content see the [ML Quant](https://www.ml-quant.com/) website below for extended details. 
+If you like this type of content then visit [ML Quant](https://www.ml-quant.com/) below: 
 ----------
 
 
