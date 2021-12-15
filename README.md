@@ -3,13 +3,16 @@
 If you like this type of content see the [ML Quant](https://www.ml-quant.com/) website below for extended details. 
 ----------
 
-Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
+
 
 ![](https://user-images.githubusercontent.com/26666267/145840123-bc077dd0-0980-439a-824b-9c09a5f779de.png)
 
 ---------
 
 ## Part One
+
+Follow this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) for SSRN paper.
+
 If you feel like citing something you can use:
 
 [Snow, D (2020)](https://jfds.pm-research.com/content/2/1/10). Machine Learning in Asset Management—Part 1: Portfolio Construction—***Trading Strategies***. The Journal of Financial Data Science, Winter 2020, 2 (1) 10-23.
